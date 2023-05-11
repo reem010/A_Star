@@ -1,4 +1,3 @@
-# A_Star
 <!DOCTYPE html>
 <html>
 <body>
