@@ -17,8 +17,8 @@
   </ul>
   
   <h2>A* Algorithm</h2>
-  <p><strong>using A* algorithm the agent looks for the best path to take from dynamic initial and goal states.</strong></p>
-   <p><strong>the hueristic function finds the path with the minimum number of steps to the goal state.</strong></p>
+  <p><strong>Using A* algorithm the agent looks for the best path to take by minimizing f(n)= total cost + hueristic value from a dynamic initial state to a dynamic goal state.       </strong></p>
+   <p><strong>The hueristic function finds the path with the minimum number of steps to the goal state.</strong></p>
   
 </body>
 </html>
