@@ -15,5 +15,10 @@
     <li><strong>A:</strong> Arms, Wheels</li>
     <li><strong>S:</strong> GPS, Infrared, Camera</li>
   </ul>
+  
+  <h2>A* Algorithm</h2>
+  <p><strong>using A* algorithm the agent looks for the best path to take from dynamic initial and goal states.</strong></p>
+   <p><strong>the hueristic function finds the path with the minimum number of steps to the goal state.</strong></p>
+  
 </body>
 </html>
