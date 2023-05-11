@@ -15,15 +15,5 @@
     <li><strong>A:</strong> Arms, Wheels</li>
     <li><strong>S:</strong> GPS, Infrared, Camera</li>
   </ul>
-  <h2>Solution / Plan</h2>
-  <p>The best path for the agent is as follows:</p>
-  <ol>
-    <li>Start at the initial state, waiting for the order.</li>
-    <li>Pick up the order.</li>
-    <li>Go to location B.</li>
-    <li>Continue to location E.</li>
-    <li>Turn right to reach the destination.</li>
-    <li>Drop the order to the customer (goal state).</li>
-  </ol>
 </body>
 </html>
