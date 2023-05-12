@@ -17,8 +17,9 @@
   </ul>
   
   <h2>A* Algorithm</h2>
-  <p><strong>Using A* algorithm the agent looks for the best path to take by minimizing f(n)= total cost + hueristic value from a dynamic initial state to a dynamic goal state.       </strong></p>
-   <p><strong>The hueristic function finds the path with the minimum number of steps to the goal state.</strong></p>
-  
+  <p><strong>Using A* algorithm the agent looks for the best path to take by minimizing f(n)= total cost + hueristic value from a dynamic initial state to a dynamic goal state from the states in the following graph (which can be changed).</strong></p>
+  <p><strong>The hueristic function finds the path with the minimum number of steps to the goal state.</strong></p>
 </body>
 </html>
+
+![foto grid](https://github.com/reem010/DeliveryAgent/assets/108128985/70699098-faa3-4bfa-9836-f0c838afafa9)
